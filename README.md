@@ -1,22 +1,22 @@
-# Available .TEL One-Word Domains (5,622,063)
+# Available .TEL One-Word Domains (8,167)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-8%2C169%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-5%2C622%2C063%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-8%2C168%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-8%2C167%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated public extract of available and resale .tel one-word domains from Unique Domains.
+Daily-updated dataset of available and resale .tel one-word domains from Unique Domains.
 
-> **Important:** this repository is a **public 8,169-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **5,622,063 domains** on the canonical page below.
+> **Note:** this repository currently mirrors the full live catalog for this exact search.
+> Unique Domains counts can still change as the search refreshes.
 
-**Public extract:** 8,169 rows · **Live catalog:** 5,622,063 domains
+**Public extract:** 8,168 rows · **Live catalog:** 8,167 domains
 
-**Last updated:** 2026-04-10  
+**Last updated:** 2026-04-12  
 **Canonical page:** `https://unique.domains/domains/tld/tel`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .TEL one-word domain c
 
 ### Files
 
-- `tel.csv` — public CSV extract (8,169 rows)
-- `tel.json` — public JSON extract (8,169 rows)
+- `tel.csv` — public CSV extract (8,168 rows)
+- `tel.json` — public JSON extract (8,168 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -66,22 +66,22 @@ print(df.head())
 | -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
 | converse.tel   | available | $10.99    | $10.99        | 64             | 73     | 8      | name.com                                                  |
 | who.tel        | resell    | —         | —             | 68             | 99     | 3      | Dynadot Inc                                               |
-| gold.tel       | premium   | $1,300    | $11.70        | 72             | 49     | 4      | namecheap                                                 |
+| security.tel   | premium   | $1,300    | $11.70        | 70             | 49     | 8      | namecheap                                                 |
 | nationwide.tel | available | $10.99    | $10.99        | 76             | 66     | 10     | name.com                                                  |
 | can.tel        | resell    | —         | —             | 68             | 98     | 3      | Dynadot Inc                                               |
-| security.tel   | premium   | $1,300    | $11.70        | 70             | 49     | 8      | namecheap                                                 |
-| wizard.tel     | available | $10.99    | $10.99        | 118            | 46     | 6      | name.com                                                  |
-| hello.tel      | resell    | —         | —             | 130            | 71     | 5      | Porkbun                                                   |
+| gold.tel       | premium   | $1,300    | $11.70        | 72             | 48     | 4      | namecheap                                                 |
+| wizard.tel     | available | $10.99    | $10.99        | 118            | 43     | 6      | name.com                                                  |
+| hello.tel      | resell    | —         | —             | 130            | 70     | 5      | Porkbun                                                   |
 | trade.tel      | premium   | $1,300    | $11.70        | 116            | 46     | 5      | namecheap                                                 |
 | strategy.tel   | available | $15.98    | —             | 74             | 43     | 8      | namecheap                                                 |
 | fuck.tel       | resell    | —         | —             | 124            | 70     | 4      | Porkbun                                                   |
 | nice.tel       | premium   | $1,221    | $10.99        | 86             | 44     | 4      | name.com                                                  |
 | content.tel    | available | $10.99    | $10.99        | 138            | 40     | 7      | name.com                                                  |
 | adam.tel       | resell    | —         | —             | 66             | 70     | 4      | Global Domains International, Inc. DBA DomainCostClub.com |
-| research.tel   | premium   | $130      | $11.70        | 92             | 41     | 8      | namecheap                                                 |
-| eternal.tel    | available | $10.99    | $10.99        | 92             | 40     | 7      | name.com                                                  |
-| good.tel       | resell    | —         | —             | 82             | 55     | 4      | Dynadot Inc                                               |
 | dark.tel       | premium   | $24.42    | $10.99        | 52             | 40     | 4      | name.com                                                  |
+| eternal.tel    | available | $10.99    | $10.99        | 92             | 39     | 7      | name.com                                                  |
+| good.tel       | resell    | —         | —             | 82             | 55     | 4      | Dynadot Inc                                               |
+| research.tel   | premium   | $130      | $11.70        | 92             | 39     | 8      | namecheap                                                 |
 | gather.tel     | available | $10.99    | $10.99        | 96             | 38     | 6      | name.com                                                  |
 | book.tel       | resell    | —         | —             | 82             | 55     | 4      | Dynadot Inc                                               |
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 8,169-row public sample | 5,622,063 live domains                           |
+| 8,168-row public sample | 8,167 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .TEL One-Word Domains*. Version 2026-04-10. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .TEL One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

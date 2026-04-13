@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .tel one-word domains from Unique 
 
 **Public extract:** 8,168 rows · **Live catalog:** 8,167 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/tel`  
 **Best for:** founders, investors, studios
 
@@ -76,13 +76,13 @@ print(df.head())
 | strategy.tel   | available | $15.98    | —             | 74             | 43     | 8      | namecheap                                                 |
 | fuck.tel       | resell    | —         | —             | 124            | 70     | 4      | Porkbun                                                   |
 | nice.tel       | premium   | $1,221    | $10.99        | 86             | 44     | 4      | name.com                                                  |
-| content.tel    | available | $10.99    | $10.99        | 138            | 40     | 7      | name.com                                                  |
+| content.tel    | available | $10.99    | $10.99        | 138            | 39     | 7      | name.com                                                  |
 | adam.tel       | resell    | —         | —             | 66             | 70     | 4      | Global Domains International, Inc. DBA DomainCostClub.com |
 | dark.tel       | premium   | $24.42    | $10.99        | 52             | 40     | 4      | name.com                                                  |
-| eternal.tel    | available | $10.99    | $10.99        | 92             | 39     | 7      | name.com                                                  |
+| gather.tel     | available | $10.99    | $10.99        | 96             | 39     | 6      | name.com                                                  |
 | good.tel       | resell    | —         | —             | 82             | 55     | 4      | Dynadot Inc                                               |
 | research.tel   | premium   | $130      | $11.70        | 92             | 39     | 8      | namecheap                                                 |
-| gather.tel     | available | $10.99    | $10.99        | 96             | 38     | 6      | name.com                                                  |
+| eternal.tel    | available | $10.99    | $10.99        | 92             | 39     | 7      | name.com                                                  |
 | book.tel       | resell    | —         | —             | 82             | 55     | 4      | Dynadot Inc                                               |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .TEL One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .TEL One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

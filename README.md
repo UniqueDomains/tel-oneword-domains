@@ -65,7 +65,7 @@ print(df.head())
 | domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
 | ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
 | insight.tel       | available | $10.99    | —             | 76             | 69     | 8      | name.com         |
-| guitar.tel        | resell    | —         | —             | 80             | 28     | 6      | NameCheap, Inc.  |
+| guitar.tel        | resell    | —         | —             | 80             | 29     | 6      | NameCheap, Inc.  |
 | Cats.tel          | premium   | $350      | $12.60        | 59             | 33     | 4      | namecheap        |
 | letsgo.tel        | available | $10.99    | —             | 57             | 31     | 7      | name.com         |
 | toys.tel          | resell    | —         | —             | 60             | 24     | 4      | Name.com, Inc.   |

@@ -907,6 +907,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 5290bdb8-0a0c-49da-bad5-22f24b502acf,getjiggy.tel,available,10.99,,80,2,9,name.com,,
 52b59c83-7f39-4024-a7ef-023e16adb1e8,bedframe.tel,available,10.99,,80,3,9,name.com,,
 52c9afd5-4226-4721-a700-a29782905a68,sentences.tel,available,10.99,,60,5,9,name.com,,
+52cd60ab-e1ff-46ed-bd19-fe9890e76e9a,smartphone.tel,premium,,,78,18,10,,,
 532015d8-5ae1-4d0d-822f-820f6c04e331,sucks.tel,available,10.99,,48,11,5,name.com,,
 5332947e-a6d6-4bd3-929b-65b50265c6b9,pages.tel,available,10.99,,52,28,5,name.com,,
 534f8816-28e3-48ba-84ed-05533cae8c68,prototypes.tel,available,10.79,10.79,56,9,10,namesilo,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 5c1504f9-af42-4642-8f26-e7421347fc37,sqm.tel,premium,610.5,,54,11,4,name.com,,
 5c1c7b13-f951-4016-af65-8d60d15fd1f2,SuezCanal.tel,available,15.98,,58,3,10,namecheap,,
 5c431836-f2f4-4ce6-af4a-b8c1086661b2,whitewater.tel,available,10.99,,82,17,11,name.com,,
-5c4dd79e-3f2a-4196-a0a3-5c1cd68a64dc,blewup.tel,available,10.79,10.79,44,1,7,namesilo,,

@@ -1,10 +1,10 @@
-# Available .TEL One-Word Domains (10,955)
+# Available .TEL One-Word Domains (10,956)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-10%2C955%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-10%2C956%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,12 +12,12 @@
 Daily-updated public extract of available and resale .tel one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **10,955 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **10,956 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 10,955 domains · **Median ask:** $31.25 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 10,956 domains · **Median ask:** $42.18 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/tld/tel`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/tel`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .TEL one-word domain c
 
 ### Files
 
-- `tel.csv` — public CSV extract (1,000 rows)
-- `tel.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `tel.csv`, public CSV extract (1,000 rows)
+- `tel.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| insight.tel       | available | $10.99    | —             | 76             | 69     | 8      | name.com         |
-| guitar.tel        | resell    | —         | —             | 80             | 29     | 6      | NameCheap, Inc.  |
-| Cats.tel          | premium   | $350      | $12.60        | 59             | 33     | 4      | namecheap        |
-| letsgo.tel        | available | $10.99    | —             | 57             | 31     | 7      | name.com         |
-| toys.tel          | resell    | —         | —             | 60             | 24     | 4      | Name.com, Inc.   |
-| slots.tel         | premium   | $610.50   | —             | 49             | 31     | 5      | name.com         |
-| inspiration.tel   | available | $10.99    | —             | 88             | 30     | 11     | name.com         |
-| Places.tel        | resell    | —         | —             | 74             | 22     | 6      | Dynadot Inc      |
-| quotes.tel        | premium   | $1,221    | —             | 58             | 29     | 6      | name.com         |
-| blocks.tel        | available | $10.99    | —             | 53             | 29     | 6      | name.com         |
-| studios.tel       | resell    | —         | —             | 54             | 21     | 7      | EuroDNS SA       |
-| chem.tel          | premium   | $24.42    | —             | 74             | 24     | 4      | name.com         |
-| pages.tel         | available | $10.99    | —             | 52             | 28     | 5      | name.com         |
-| ladies.tel        | resell    | —         | —             | 80             | 17     | 6      | EuroDNS SA       |
-| CapeCod.tel       | premium   | $350      | $12.60        | 78             | 22     | 8      | namecheap        |
-| backyard.tel      | available | $10.99    | —             | 80             | 27     | 9      | name.com         |
-| updates.tel       | resell    | —         | —             | 54             | 15     | 7      | Dynadot Inc      |
-| Alexis.tel        | premium   | $24.42    | —             | 72             | 21     | 6      | name.com         |
-| systems.tel       | available | $10.99    | —             | 46             | 27     | 7      | name.com         |
-| neighbourhood.tel | resell    | —         | —             | 70             | 14     | 13     | Webnames.ca Inc. |
+| domain     | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| ---------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| aftuh.tel  | available | $10.79    | $10.79        | medium         | low    | 5      | namesilo         |
+| good.tel   | resell    | —         | —             | high           | medium | 4      | Dynadot Inc      |
+| add.tel    | premium   | $610.50   | —             | high           | low    | 3      | name.com         |
+| again.tel  | available | $10.79    | $10.79        | high           | low    | 5      | namesilo         |
+| show.tel   | resell    | —         | —             | high           | low    | 4      | Dynadot Inc      |
+| bce.tel    | premium   | $610.50   | —             | medium         | low    | 3      | name.com         |
+| aside.tel  | available | $10.79    | $10.79        | high           | low    | 5      | namesilo         |
+| smith.tel  | resell    | —         | —             | medium         | medium | 5      | Webnames.ca Inc. |
+| dvd.tel    | premium   | $610.50   | —             | high           | low    | 3      | name.com         |
+| axial.tel  | available | $10.79    | $10.79        | high           | low    | 5      | namesilo         |
+| watch.tel  | resell    | —         | —             | high           | low    | 5      | GoDaddy.com, LLC |
+| ego.tel    | premium   | $610.50   | —             | medium         | low    | 3      | name.com         |
+| begin.tel  | available | $10.79    | $10.79        | high           | low    | 5      | namesilo         |
+| ignore.tel | resell    | —         | —             | medium         | low    | 6      | Porkbun          |
+| gal.tel    | premium   | $610.50   | —             | medium         | low    | 3      | name.com         |
+| blind.tel  | available | $10.79    | $10.79        | medium         | low    | 5      | namesilo         |
+| school.tel | resell    | —         | —             | high           | low    | 6      | Spaceship, Inc.  |
+| ice.tel    | premium   | $610.50   | —             | medium         | medium | 3      | name.com         |
+| blues.tel  | available | $10.79    | $10.79        | medium         | low    | 5      | namesilo         |
+| soccer.tel | resell    | —         | —             | high           | low    | 6      | Webnames.ca Inc. |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 10,955 live domains                        |
+| 1,000-row public sample | 10,956 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is focused entirely on .tel domains. The mix includes concise dictionary words, common terms, and a few longer phrase-style names such as appetizing.tel, adolescent.tel, tuesday.tel, and coffeebreak.tel. For founders, the strongest candidates are usually the shortest, easiest-to-pronounce names with broad meaning and low ambiguity. For investors, the key is price discipline: .tel is a narrow extension, so entry price matters more than stretch assumptions. When comparing these domains, weigh memorability, spelling clarity, commercial relevance, and whether the ask leaves room for realistic resale or long holding periods.
+This list covers one-word .tel domain names ranging from short everyday phrases to recognizable pop-culture terms, such as midautumn.tel, hangon.tel, and Apples.tel. With 10,956 domains tracked and a median asking price near $42, the set offers a low-cost entry point into the .tel extension. Because .tel sits outside mainstream TLDs like .com, pricing tends to stay accessible, but buyers should still weigh renewal cost, word clarity, and trademark exposure before committing to any single name.
 
-- Prioritize short, clear words like see.tel or soil.tel
-- Treat longer .tel names as narrower, lower-liquidity bets
-- Use the 31.25 median ask as a basic price reality check
-- Check for trademark overlap before valuing brandability
+- 10,956 one-word .tel domain names tracked
+- Median ask near $42 across the set
+- Mix of short phrases, names, and pop-culture terms
+- Useful for comparing .tel pricing before buying
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .TEL One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .TEL One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .tel one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 18,814 domains · **Median ask:** $28.22 · **High-demand under $2,500:** 9
 
-**Last updated:** 2026-09-05
+**Last updated:** 2026-09-06
 **Canonical page:** `https://unique.domains/domains/tld/tel`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain     | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| ---------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| aftuh.tel  | available | $10.79    | $10.79        | medium         | low    | 5      | namesilo         |
-| good.tel   | resell    | —         | —             | high           | medium | 4      | Dynadot Inc      |
-| add.tel    | premium   | $610.50   | —             | high           | low    | 3      | name.com         |
-| again.tel  | available | $10.79    | $10.79        | high           | low    | 5      | namesilo         |
-| show.tel   | resell    | —         | —             | high           | low    | 4      | Dynadot Inc      |
-| bce.tel    | premium   | $610.50   | —             | medium         | low    | 3      | name.com         |
-| aside.tel  | available | $10.79    | $10.79        | high           | low    | 5      | namesilo         |
-| smith.tel  | resell    | —         | —             | medium         | medium | 5      | Webnames.ca Inc. |
-| dvd.tel    | premium   | $610.50   | —             | high           | low    | 3      | name.com         |
-| axial.tel  | available | $10.79    | $10.79        | high           | low    | 5      | namesilo         |
-| watch.tel  | resell    | —         | —             | high           | low    | 5      | GoDaddy.com, LLC |
-| ego.tel    | premium   | $610.50   | —             | medium         | low    | 3      | name.com         |
-| begin.tel  | available | $10.79    | $10.79        | high           | low    | 5      | namesilo         |
-| ignore.tel | resell    | —         | —             | medium         | low    | 6      | Porkbun          |
-| gal.tel    | premium   | $610.50   | —             | medium         | low    | 3      | name.com         |
-| blind.tel  | available | $10.79    | $10.79        | medium         | low    | 5      | namesilo         |
-| school.tel | resell    | —         | —             | high           | low    | 6      | Spaceship, Inc.  |
-| ice.tel    | premium   | $610.50   | $10.99        | medium         | medium | 3      | name.com         |
-| blues.tel  | available | $10.79    | $10.79        | medium         | low    | 5      | namesilo         |
-| soccer.tel | resell    | —         | —             | high           | low    | 6      | Webnames.ca Inc. |
+| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| something.tel | available | $10.99    | —             | high           | low    | 9      | name.com         |
+| firm.tel      | premium   | $24.42    | —             | high           | low    | 4      | name.com         |
+| aftuh.tel     | available | $10.79    | $10.79        | medium         | low    | 5      | namesilo         |
+| good.tel      | resell    | —         | —             | high           | medium | 4      | Dynadot Inc      |
+| add.tel       | premium   | $610.50   | —             | high           | low    | 3      | name.com         |
+| again.tel     | available | $10.79    | $10.79        | high           | low    | 5      | namesilo         |
+| show.tel      | resell    | —         | —             | high           | low    | 4      | Dynadot Inc      |
+| bce.tel       | premium   | $610.50   | —             | medium         | low    | 3      | name.com         |
+| aside.tel     | available | $10.79    | $10.79        | high           | low    | 5      | namesilo         |
+| smith.tel     | resell    | —         | —             | medium         | medium | 5      | Webnames.ca Inc. |
+| dvd.tel       | premium   | $610.50   | —             | high           | low    | 3      | name.com         |
+| axial.tel     | available | $10.79    | $10.79        | high           | low    | 5      | namesilo         |
+| watch.tel     | resell    | —         | —             | high           | low    | 5      | GoDaddy.com, LLC |
+| ego.tel       | premium   | $610.50   | —             | medium         | low    | 3      | name.com         |
+| begin.tel     | available | $10.79    | $10.79        | high           | low    | 5      | namesilo         |
+| ignore.tel    | resell    | —         | —             | medium         | low    | 6      | Porkbun          |
+| gal.tel       | premium   | $610.50   | —             | medium         | low    | 3      | name.com         |
+| blind.tel     | available | $10.79    | $10.79        | medium         | low    | 5      | namesilo         |
+| school.tel    | resell    | —         | —             | high           | low    | 6      | Spaceship, Inc.  |
+| ice.tel       | premium   | $610.50   | $10.99        | medium         | medium | 3      | name.com         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .TEL One-Word Domains*. Version 2026-09-05. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .TEL One-Word Domains*. Version 2026-09-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

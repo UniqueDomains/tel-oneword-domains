@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .tel one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 29,789 domains · **Median ask:** $22.21 · **High-demand under $2,500:** 9
 
-**Last updated:** 2026-09-23
+**Last updated:** 2026-09-24
 **Canonical page:** `https://unique.domains/domains/tld/tel`
 **Best for:** founders, investors, studios
 
@@ -65,8 +65,6 @@ print(df.head())
 | domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
 | ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
 | something.tel | available | $10.99    | —             | high           | low    | 9      | name.com          |
-| travel.tel    | available | —         | —             | high           | low    | 6      | —                 |
-| enough.tel    | available | $10.99    | —             | high           | low    | 6      | name.com          |
 | aftuh.tel     | available | $10.79    | $10.79        | medium         | low    | 5      | namesilo          |
 | good.tel      | resell    | —         | —             | medium         | low    | 4      | Dynadot Inc       |
 | add.tel       | premium   | $610.50   | —             | high           | low    | 3      | name.com          |
@@ -84,6 +82,8 @@ print(df.head())
 | gal.tel       | premium   | $610.50   | —             | medium         | low    | 3      | name.com          |
 | choir.tel     | available | $10.79    | $10.79        | high           | low    | 5      | namesilo          |
 | ignore.tel    | resell    | —         | —             | medium         | low    | 6      | Porkbun           |
+| ice.tel       | premium   | $650      | $11.70        | low            | low    | 3      | namecheap         |
+| cloth.tel     | available | $10.79    | $10.79        | high           | low    | 5      | namesilo          |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .TEL One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .TEL One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
